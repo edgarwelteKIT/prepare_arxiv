@@ -15,6 +15,7 @@ What it does:
 The original project is not modified.
 
 Usage:
+    
     python3 prepare_arxiv.py /path/to/project
 
 or:
